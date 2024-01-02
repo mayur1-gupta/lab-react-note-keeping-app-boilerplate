@@ -1,0 +1,29 @@
+body{
+    color: rgb(252, 252, 252);
+    background-color: rgba(108, 108, 235);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.flix{
+    display: flex;
+}
+.inputbox{
+}
+.text{
+     height: 65vh;
+     width: 95vh;  
+     background-color: rgba(108, 108, 235); 
+     border: 3px solid rgb(66, 66, 66);
+     color: #ffffff;
+}
+.copeText{
+    height: 80vh;
+    width: 75vh;
+    background-color: rgb(71, 71, 71);
+    margin-left: 10vh;
+    border-radius: 2vh;
+    color: #ffffff;
+}
+.proNote{
+    margin-left: 10vh;
+
+}
