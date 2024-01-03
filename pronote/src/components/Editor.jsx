@@ -22,7 +22,7 @@ text(e){
             <h1 className='input'>Input</h1>
             <div className='inputbox'>
                 <textarea onChange={this.text} className='text'/></div>
-                <img src="" alt="" />
+              
 
         </div>
         <div>
